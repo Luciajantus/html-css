@@ -9,6 +9,6 @@ body{
     height: 100vh;
 }
 
-.titulo-destaque{
+strong.titulo-destaque{
     color: #22D4FD;
 }
