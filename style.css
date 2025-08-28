@@ -19,7 +19,7 @@ strong.titulo-destaque{
 .presentacion{
     display: flex;
     align-items: center;
-    margin: 5%;
+    margin: 10%;
     justify-content: space.between;
 }
 
