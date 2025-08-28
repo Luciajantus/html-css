@@ -42,3 +42,9 @@ strong.titulo-destaque{
     justify-content: space-between;
     
 }
+
+.presentacion__enlaces__link {
+    widht: 280px;
+    background-color: #22D4FD;
+    text-align: center;
+}
